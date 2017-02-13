@@ -1,7 +1,5 @@
 # Decomoji List
 
-**importするスクリプトの実行はテストしていません(2017/02/11 00:33)**
-
 jp-en compatible table includes some jokes. Patches welcome!
 
 |Decomoji|Default Code|Japanese|
